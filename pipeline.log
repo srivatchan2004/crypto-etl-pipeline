@@ -1,0 +1,12 @@
+2026-10-28 10:28:40,756 - INFO - Pipeline started
+2026-10-28 10:28:41,886 - INFO - Extracted 5 coins
+2026-10-28 10:28:41,916 - INFO - 5 coins passed validation
+2026-10-28 10:28:41,921 - INFO - Transformed 5 rows
+2026-10-28 10:28:41,936 - INFO - Loaded 5 new rows into crypto.db
+2026-10-28 10:28:42,426 - INFO - Pipeline finished
+2026-10-28 10:29:49,693 - INFO - Pipeline started
+2026-10-28 10:29:50,835 - INFO - Extracted 5 coins
+2026-10-28 10:29:50,869 - INFO - 5 coins passed validation
+2026-10-28 10:29:50,874 - INFO - Transformed 5 rows
+2026-10-28 10:29:50,886 - INFO - Loaded 5 new rows into crypto.db
+2026-10-28 10:29:51,398 - INFO - Pipeline finished
